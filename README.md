@@ -27,6 +27,9 @@ I'm a full-stack developer and Cyber Security focused on building tools, applica
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <br></br>
+
+---
+
 I specialize in **Cybersecurity** with a strong background in **software development**, bringing over **8 years of hands-on programming experience**. I focus on building practical applications and systems that address real-world challenges, with particular attention to solutions that serve local communities, especially in Syria.
 
 My work includes developing **hospital automation systems**, **Telegram bots**, and **regional applications and platforms** designed to meet real user needs. I combine secure-by-design principles with modern development practices to deliver scalable, reliable, and maintainable solutions.
