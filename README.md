@@ -1,6 +1,6 @@
 # 🧑‍💻 KernelX
 **`Cyber Security - FullStack-Developer`**
-
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/mohammadmbatous/) [![Website Badge](https://img.shields.io/badge/-Website-8a2d4a?style=flat&link=https://iammateus.com.br/)](https://iammateus.com.br/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateussoaress1997@gmail.com)](mailto:mateussoaress1997@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ronnyacacio)](https://github.com/iammateus)
 I'm a full-stack developer and Cyber Security focused on building tools, applications, and systems that solve real-life problems. My work spans from planning and designing to implementing robust, efficient, and user-friendly solutions. Every project reflects precision, creativity, and technical mastery.
 
 <p align="left">
