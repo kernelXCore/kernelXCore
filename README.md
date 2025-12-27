@@ -7,7 +7,7 @@ I'm a full-stack developer and tech creator focused on building tools, applicati
 &nbsp;&nbsp; <a href="https://github.com/KernelXx?tab=followers">
 &nbsp;&nbsp;&nbsp;&nbsp; <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KernelXx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&logoColor=white&label=Follow"/>
 </a>
-&nbsp;&nbsp; <a href="https://github.com/KernelXx?tab=repositories&sort=stargazers">
+&nbsp; <a href="https://github.com/KernelXx?tab=repositories&sort=stargazers">
 &nbsp;&nbsp;&nbsp;&nbsp; <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KernelXx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 </p>
