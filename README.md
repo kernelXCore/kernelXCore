@@ -27,5 +27,20 @@ I'm a full-stack developer and Cyber Security focused on building tools, applica
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <br></br>
-I focus on creating practical applications and systems for real-life challenges, fhospital automationon** Telegram botsts**regional appsps** serving communities in Syria.  
-I also expldigital investigations and cybercrime analysisis**, applying technology to solve complex problems.Portfolio / Projects:s:** [https://kernelx.dev](https://kernelx.dev)
+I specialize in **Cybersecurity** with a strong background in **software development**, bringing over **8 years of hands-on programming experience**. I focus on building practical applications and systems that address real-world challenges, with particular attention to solutions that serve local communities, especially in Syria.
+
+My work includes developing **hospital automation systems**, **Telegram bots**, and **regional applications and platforms** designed to meet real user needs. I combine secure-by-design principles with modern development practices to deliver scalable, reliable, and maintainable solutions.
+
+In addition to development, I actively work on **penetration testing**, security assessments, and system hardening, helping organizations identify weaknesses and strengthen their digital infrastructure.
+
+I am also recognized as one of the **early programmers in Northern Syria**, contributing to the growth of the local tech ecosystem through impactful and sustainable projects.
+
+## 🧩 Areas of Expertise
+- Cybersecurity & Penetration Testing  
+- Secure Software Development  
+- Hospital & Institutional Automation Systems  
+- Telegram Bot Development  
+- Regional & Community-Focused Applications  
+
+## 🚀 Portfolio / Projects
+🔗 **https://kernelx.dev**
