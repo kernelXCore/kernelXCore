@@ -1,5 +1,5 @@
 # 🟢 KernelX
-**Digital Craftsman (Full-Stack Developer / Tech Innovator / Creator)**
+**`Cyber Security - FullStack-Developer`**
 
 I'm a full-stack developer and tech creator focused on building tools, applications, and systems that solve real-life problems. My work spans from planning and designing to implementing robust, efficient, and user-friendly solutions. Every project reflects precision, creativity, and technical mastery.
 
