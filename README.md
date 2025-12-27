@@ -7,8 +7,6 @@ I'm a full-stack developer and Cyber Security focused on building tools, applica
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kerlenXCore)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m.batous)
 
-
- <br></br>
 ---
 
 ###  Languages and Tools
