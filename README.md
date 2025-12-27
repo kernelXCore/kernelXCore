@@ -31,7 +31,8 @@ I'm a full-stack developer and Cyber Security focused on building tools, applica
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <br>
 I focus on creating practical applications and systems for real-life challenges, fhospital automationon** Telegram botsts**regional appsps** serving communities in Syria.  
 I also expldigital investigations and cybercrime analysisis**, applying technology to solve complex problems.Portfolio / Projects:s:** [https://kernelx.dev](https://kernelx.dev)
