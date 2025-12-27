@@ -1,19 +1,11 @@
 # 🧑‍💻 KernelX
 **`Cyber Security - FullStack-Developer`**
+
+I'm a full-stack developer and Cyber Security focused on building tools, applications, and systems that solve real-life problems. My work spans from planning and designing to implementing robust, efficient, and user-friendly solutions. Every project reflects precision, creativity, and technical mastery.
+
 <br></br>
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/mohammadmbatous/) [![Website Badge](https://img.shields.io/badge/-Website-8a2d4a?style=flat&link=https://iammateus.com.br/)](https://iammateus.com.br/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateussoaress1997@gmail.com)](mailto:mateussoaress1997@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ronnyacacio)](https://github.com/iammateus)
  <br></br>
-I'm a full-stack developer and Cyber Security focused on building tools, applications, and systems that solve real-life problems. My work spans from planning and designing to implementing robust, efficient, and user-friendly solutions. Every project reflects precision, creativity, and technical mastery.
-
-<p align="left">
- <a href="https://github.com/KernelXx?tab=followers">
- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KernelXx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&logoColor=white&label=Follow"/>
-</a>
-<a href="https://github.com/KernelXx?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KernelXx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-</p>
-
 ---
 
 ###  Languages and Tools
